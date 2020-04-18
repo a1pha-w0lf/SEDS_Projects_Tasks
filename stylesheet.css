@@ -1,0 +1,17 @@
+h1
+{
+	color:Blue;
+	text-align : center;
+}
+
+h2
+{
+	color:Red;
+	text-align: center;
+}
+
+.pic1
+{
+	position:relative;
+	padding-left:500px;
+}
